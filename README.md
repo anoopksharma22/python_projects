@@ -6,3 +6,5 @@ This project covers basic:
 - Athentication
 - Password Hashing
 - JWT
+- Postgresql with python 
+- SQLAlchemy ORM
